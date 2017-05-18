@@ -1,0 +1,48 @@
+body {background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+mark {background-color: white;
+    color: black;
+    
+}
+
+div { 
+	font-size: 25px;
+	color: magenta;
+	
+}
+
+h1 {
+    font-size: 48px;
+    color: pink;
+     
+}
+
+p2 {
+    
+    font-size: 43px;
+    color: white;
+    
+}
+
+p {
+    
+    font-size: 39px;
+    color: deeppink;
+
+}
+
+a{
+    
+    color: aqua;
+    
+}
+
+h2 {
+    
+    font-size: 28px;
+    
+}
